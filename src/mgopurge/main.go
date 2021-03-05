@@ -16,8 +16,8 @@ import (
 	"time"
 
 	jujutxn "github.com/juju/txn"
-	"gopkg.in/mgo.v2"
-	"gopkg.in/mgo.v2/txn"
+	"github.com/juju/mgo"
+	"github.com/juju/mgo/txn"
 )
 
 const txnsC = "txns"
