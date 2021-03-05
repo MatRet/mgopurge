@@ -1,6 +1,5 @@
 bin/
 pkg/
-src/mgopurge/version.go
 /build/
 /parts/
 /prime/
